@@ -1,6 +1,6 @@
 # Light-And-Dark Theme Switcher
 
-# Read Me Template
+
 
 ![Project Image](https://i.ibb.co/bRRXfJF/Screenshot-2021-05-13-120955.png)
 
